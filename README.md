@@ -1,5 +1,5 @@
 ## 🌐 AdminLTE4-Net-Mvc5
-Exemplo de renderização de layout AdminLTE4 em C# ASP.NET MVC5 com banco de dados MySQL.
+Exemplo de renderização de layout AdminLTE4 em C# ASP.NET .NETFramework MVC5 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do Projeto
 <img width="800" height="350" alt="AdminLTE4-Net-Mvc5" src="https://github.com/user-attachments/assets/38abc628-4791-49a3-b91a-20acee7a07ec" />
